@@ -114,6 +114,7 @@ body{
     color: #fff;
     background-color: #001430;
     border:  solid 3px red;   
+    text-align: center;
 }
 .box2:hover{
     border:  solid 5px green;
